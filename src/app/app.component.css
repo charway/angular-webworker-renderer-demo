@@ -1,0 +1,25 @@
+div label {
+    display: block;
+}
+
+h1 {
+    margin: 10px 10px;
+}
+
+.loader {
+    padding: 10px;
+    margin-left: 10px;
+    display: flex;
+}
+
+.loader>div {
+    background-color: #000;
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    margin: 5px;
+}
+
+.content {
+    margin: 10px 10px;
+}

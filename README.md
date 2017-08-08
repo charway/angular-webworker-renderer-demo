@@ -1,5 +1,3 @@
 Angualr Webworker Renderer DEMO
 
-`yarn install`
-
-`yarn start`
+doc address: https://zhuanlan.zhihu.com/p/28365967
